@@ -11,9 +11,11 @@ S.Kom. in Game Application and Technology, Faculty of School of Computer Science
 > ![Dome Diner](assets/gif/Dome Diner (2).gif)
 > Dome Diner is a casual diner and time management game set in a human colony in Mars. A game inspired by Diner Dash completely made in Unity.
 > [itch.io](https://kreiglist.itch.io/dome-diner)
+> [Github Repository](https://github.com/Kreiglist/Dome-Diner)
 
 ### Top Shooter
 > ![Top Shooter](assets/gif/TopShooter.gif)
 > Top Shooter is a dynamic top shooter game where I applied my knowledge and skills in game development to create an engaging and immersive experience.
+> [Github Repository](https://github.com/Kreiglist/2602153480---SpaceInvaderAOL)
 
 
