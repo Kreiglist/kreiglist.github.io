@@ -1,7 +1,7 @@
 # Game Development Learner
 
 ### Education
-Bina Nusantara University, School of Computer Science, Game Application and Technology
+S.Kom. in Game Application and Technology, Faculty of School of Computer Science, Bina Nusantara University, 2022 - Present.
 
 ### Projects
 Dome Diner
