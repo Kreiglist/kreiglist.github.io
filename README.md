@@ -6,5 +6,9 @@
 ### Education
 S.Kom. in Game Application and Technology, Faculty of School of Computer Science, Bina Nusantara University, 2022 - Present.
 
-### Projects
-Dome Diner
+## Projects
+###Dome Diner
+> ![Dome Diner](assets/gif/Dome Diner (2).gif)
+> Dome Diner is a casual diner and time management game set in a human colony in Mars. A game inspired by Diner Dash completely made in Unity.
+
+
